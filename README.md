@@ -16,7 +16,7 @@ gcc josephus.c
 
 ### Usage
 ```
-write use command here
+You can rewrite the value of function to change the circle size.
 ```
 
 ### License
